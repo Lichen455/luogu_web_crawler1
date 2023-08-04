@@ -91,8 +91,8 @@ def extract(text):
     return text[start:end].strip()
 
 
-num = 10000 - 1
-numlast = 15000
+num = 1000 - 1
+numlast = 10000
 
 while num < numlast:
     try:
